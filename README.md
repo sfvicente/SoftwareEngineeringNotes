@@ -1,2 +1,4 @@
-# SoftwareEngineeringNotes
-A collection of structured notes focused on software engineering
+# Software Engineering Notes
+A collection of structured information related to software engineering.
+
+
