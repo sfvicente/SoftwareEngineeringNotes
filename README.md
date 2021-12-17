@@ -7,6 +7,10 @@ A collection of structured information related to software engineering.
 - [Fundamentals](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Architecture/Fundamentals.md)
 
 
+## Development
+
+- [Principles](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Principles.md)
+
 
 ## Microservices
 
