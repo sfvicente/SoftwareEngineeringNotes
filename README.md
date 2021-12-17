@@ -11,6 +11,7 @@ A collection of structured information related to software engineering.
 
 - [Principles](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Principles.md)
 - [Techniques](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques.md)
+- [Bad Practices](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/BadPractices.md)
 
 ## Microservices
 
