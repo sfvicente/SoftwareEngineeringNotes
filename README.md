@@ -10,6 +10,9 @@ A collection of structured information related to software engineering.
 ## Development
 
 - [Principles](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Principles.md)
+
+- [Design Patterns](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/DesignPatterns.md)
+
 - [Techniques](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques.md)
 - [Bad Practices](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/BadPractices.md)
 
