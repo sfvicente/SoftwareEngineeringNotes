@@ -13,6 +13,8 @@ A collection of structured information related to software engineering.
 - [Techniques](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques.md)
 - [Bad Practices](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/BadPractices.md)
 
+- [Configurability](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Configurability.md)
+
 ## Microservices
 
 - [Introduction](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Microservices/Introduction.md)
