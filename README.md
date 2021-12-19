@@ -5,6 +5,7 @@ A collection of structured information related to software engineering.
 ## Architecture
 
 - [Fundamentals](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Architecture/Fundamentals.md)
+- [Clean Architecture](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Architecture/CleanArchitecture.md)
 - [Event-Driven Architecture](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Architecture/EventDrivenArchitecture.md)
 
 ## Development
