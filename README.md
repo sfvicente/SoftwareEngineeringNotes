@@ -8,6 +8,12 @@ A collection of structured information related to software engineering.
 - [Clean Architecture](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Architecture/CleanArchitecture.md)
 - [Event-Driven Architecture](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Architecture/EventDrivenArchitecture.md)
 
+
+## Design
+
+- [Domain-Driven Design](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Design/DomainDrivenDesign.md)
+
+
 ## Development
 
 - [Principles](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Principles.md)
