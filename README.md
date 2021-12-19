@@ -23,7 +23,7 @@ A collection of structured information related to software engineering.
 ## Distributed Systems
 
 - [Introduction](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/DistributedSystems/Introduction.md)
-
+- [Consistency](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/DistributedSystems/Consistency.md)
 
 
 ## Microservices
