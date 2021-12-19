@@ -19,6 +19,13 @@ A collection of structured information related to software engineering.
 - [Configurability](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Configurability.md)
 - [Feature Toggles](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/FeatureToggles.md)
 
+
+## Distributed Systems
+
+- [Introduction](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/DistributedSystems/Introduction.md)
+
+
+
 ## Microservices
 
 - [Introduction](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Microservices/Introduction.md)
