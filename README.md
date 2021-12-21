@@ -19,6 +19,7 @@ A collection of structured information related to software engineering.
 - [Principles](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Principles.md)
 
 - [Design Patterns](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/DesignPatterns.md)
+- [Anti-Patterns](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/AntiPatterns.md)
 
 - [Techniques](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques.md)
 - [Bad Practices](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/BadPractices.md)
@@ -37,5 +38,10 @@ A collection of structured information related to software engineering.
 
 - [Introduction](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Microservices/Introduction.md)
 
+
+
+## Containerization
+
+- [Introduction](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Containerization/Introduction.md)
 
 
