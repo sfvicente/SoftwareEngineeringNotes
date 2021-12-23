@@ -22,6 +22,9 @@ A collection of structured information related to software engineering.
 - [Anti-Patterns](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/AntiPatterns.md)
 
 - [Techniques](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques.md)
+	- [Guard Clauses](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques/GuardClauses.md)
+
+
 - [Bad Practices](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/BadPractices.md)
 
 - [Configurability](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Configurability.md)
