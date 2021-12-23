@@ -19,6 +19,8 @@ A collection of structured information related to software engineering.
 - [Principles](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Principles.md)
 
 - [Design Patterns](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/DesignPatterns.md)
+	- [Null Object](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/DesignPatterns/NullObject.md)
+
 - [Anti-Patterns](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/AntiPatterns.md)
 
 - [Techniques](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques.md)
