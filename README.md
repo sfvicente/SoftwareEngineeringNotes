@@ -23,7 +23,7 @@ A collection of structured information related to software engineering.
 
 - [Techniques](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques.md)
 	- [Guard Clauses](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques/GuardClauses.md)
-
+	- [Dependency Injection](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/Techniques/DependencyInjection.md)
 
 - [Bad Practices](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/BadPractices.md)
 
