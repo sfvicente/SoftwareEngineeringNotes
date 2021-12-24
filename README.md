@@ -22,6 +22,7 @@ A collection of structured information related to software engineering.
 	- [Null Object](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/DesignPatterns/NullObject.md)
 	- [Singleton](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/DesignPatterns/Singleton.md)
 	- [Factory](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/DesignPatterns/Factory.md)
+	- [Repository](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/DesignPatterns/Repository.md)
 
 - [Anti-Patterns](https://github.com/sfvicente/SoftwareEngineeringNotes/blob/master/Docs/Development/AntiPatterns.md)
 
